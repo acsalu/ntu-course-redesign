@@ -1,0 +1,8 @@
+{"courses":[
+    {"name":"普通心理學", "instructor":"梁庚辰"},
+    {"name":"認知心理學", "instructor":"連韻文"},
+    {"name":"知覺心理學", "instructor":"葉素玲", "time":[]},
+    {"name":"社會心理學", "instructor":"蘇珍頤"},
+    {"name":"發展心理學", "instructor":"曹峰銘"},
+    {"name":"生理心理學", "instructor":"賴文崧"}
+]}
